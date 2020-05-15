@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactStateLottery/static/css/main.459e1771.chunk.css",
+    "main.js": "/ReactStateLottery/static/js/main.f3e69913.chunk.js",
+    "main.js.map": "/ReactStateLottery/static/js/main.f3e69913.chunk.js.map",
+    "runtime-main.js": "/ReactStateLottery/static/js/runtime-main.252175a6.js",
+    "runtime-main.js.map": "/ReactStateLottery/static/js/runtime-main.252175a6.js.map",
+    "static/js/2.a43e5543.chunk.js": "/ReactStateLottery/static/js/2.a43e5543.chunk.js",
+    "static/js/2.a43e5543.chunk.js.map": "/ReactStateLottery/static/js/2.a43e5543.chunk.js.map",
+    "index.html": "/ReactStateLottery/index.html",
+    "precache-manifest.c49701207f9ea64d94a79e5be747e59c.js": "/ReactStateLottery/precache-manifest.c49701207f9ea64d94a79e5be747e59c.js",
+    "service-worker.js": "/ReactStateLottery/service-worker.js",
+    "static/css/main.459e1771.chunk.css.map": "/ReactStateLottery/static/css/main.459e1771.chunk.css.map",
+    "static/js/2.a43e5543.chunk.js.LICENSE.txt": "/ReactStateLottery/static/js/2.a43e5543.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252175a6.js",
+    "static/js/2.a43e5543.chunk.js",
+    "static/css/main.459e1771.chunk.css",
+    "static/js/main.f3e69913.chunk.js"
+  ]
+}
